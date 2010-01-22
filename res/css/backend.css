@@ -1,0 +1,39 @@
+/**
+* @site           TYPO3 Backend of Seitwert-Extension
+* @link           http://www.typo3.org
+* @style          Styles for the back-end output of the seitwert extension
+* @media          screen
+* @version        0.0.1
+* @license        CC-A 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/deed.de)
+* @date           2008-12-12
+* @lastmodified   2009-01-15
+* @author         Marco Ziesing, mz@puremedia-online.de
+*/
+
+a.button {
+  padding: 1px 5px 1px 5px;
+  margin-left: 10px;
+  color: #212424;
+  background-color: #FEFEFE;
+  border-color: #838EA0 #545861 #545861 #838EA0;
+  border-style: solid;
+  border-width: 1px;
+}
+
+a.button:hover {
+  color: #212424;
+  background-color: #FEFEFE;
+  border-color: #AAAAAA #888888 #888888 #AAAAAA;
+  border-style: solid;
+  border-width: 1px;
+}
+
+label {
+	margin: 10px 0 0 0;
+	display: block;
+}
+
+input[type=submit] {
+	margin: 10px 0 0 0;
+	display: block;
+}

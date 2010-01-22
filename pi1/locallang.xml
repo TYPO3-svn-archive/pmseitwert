@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for plugin &quot;tx_pmseitwert_pi1&quot;</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+      <label index="select_domain">Select domain</label>
+      <label index="last_ratings">Last ratings for</label>
+      <label index="ratings_for">Ratings for</label>
+      <label index="rating_seitwert">Seitwert</label>
+      <label index="rating_google">Weighting at Google</label>
+      <label index="rating_alexa">Hit rate (Alexa)</label>
+      <label index="rating_social">Social Bookmarks</label>
+      <label index="rating_technical">Technical Details</label>
+      <label index="rating_yahoo">Weighting at Yahoo</label>
+      <label index="rating_other">Other factors</label>
+      <label index="error">Error</label>
+    </languageKey>
+		<languageKey index="de" type="array">
+      <label index="select_domain">Domain auswählen</label>
+      <label index="last_ratings">Letzte Bewertungen für</label>
+      <label index="ratings_for">Bewertungen für</label>
+      <label index="rating_seitwert">Seitwert</label>
+      <label index="rating_google">Gewichtung bei Google</label>
+      <label index="rating_alexa">Zugriffszahlen (Alexa)</label>
+      <label index="rating_social">Social Bookmarks</label>
+      <label index="rating_technical">Technische Details</label>
+      <label index="rating_yahoo">Gewichtung bei Yahoo</label>
+      <label index="rating_other">Sonstige Faktoren</label>
+      <label index="error">Fehler</label>
+    </languageKey>
+	</data>
+</T3locallang>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'pmseitwert'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tt_content.list_type_pi1">Seitwert</label>
+			<label index="tx_pmseitwert_conf">Configuration</label>
+			<label index="tx_pmseitwert_conf.apikey">Key for the Seitwert API</label>
+			<label index="tx_pmseitwert_data">Data</label>
+			<label index="tx_pmseitwert_data.url">URL</label>
+			<label index="tx_pmseitwert_data.seitwert">Seitwert</label>
+			<label index="tx_pmseitwert_data.google">Google</label>
+			<label index="tx_pmseitwert_data.alexa">Alexa</label>
+			<label index="tx_pmseitwert_data.social">Social</label>
+			<label index="tx_pmseitwert_data.technical">Technical</label>
+			<label index="tx_pmseitwert_data.yahoo">Yahoo</label>
+			<label index="tx_pmseitwert_data.other">Other</label>
+			<label index="tx_pmseitwert_data.checktime">Checktime</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="tt_content.list_type_pi1">Seitwert</label>
+			<label index="tx_pmseitwert_conf">Konfiguration</label>
+			<label index="tx_pmseitwert_conf.apikey">Schlüssel für die Seitwert API</label>
+			<label index="tx_pmseitwert_data">Daten</label>
+			<label index="tx_pmseitwert_data.url">URL</label>
+			<label index="tx_pmseitwert_data.seitwert">Seitwert</label>
+			<label index="tx_pmseitwert_data.google">Google</label>
+			<label index="tx_pmseitwert_data.alexa">Alexa</label>
+			<label index="tx_pmseitwert_data.social">Sozial</label>
+			<label index="tx_pmseitwert_data.technical">Technisch</label>
+			<label index="tx_pmseitwert_data.yahoo">Yahoo</label>
+			<label index="tx_pmseitwert_data.other">Andere</label>
+			<label index="tx_pmseitwert_data.checktime">Prüfzeit</label>
+		</languageKey>
+	</data>
+</T3locallang>

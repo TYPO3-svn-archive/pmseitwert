@@ -1,0 +1,3 @@
+plugin.tx_pmseitwert_pi1 {
+	templateFile = EXT:pmseitwert/res/template_seitwert.html
+}

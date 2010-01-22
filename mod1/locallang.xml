@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for module &quot;web_txpmseitwertM1&quot;</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="title">Seitwert</label>
+			<label index="stats">Statistics</label>
+			<label index="config">Configuration</label>
+
+      <label index="new_data">Added new data.</label>
+      <label index="new_data_error">New data could not be saved!</label>
+      <label index="select_domain">Select domain</label>
+      <label index="apikey">API-Key</label>
+      <label index="hold_back_time">Hold-back time of data</label>
+      <label index="days">Days</label>
+      <label index="invalid_domain">Invalid Domain!</label>
+      <label index="invalid_apikey">Invalid API-Key!</label>
+      <label index="delete_entry">Delete entry</label>
+      <label index="delete_success">Entry deleted</label>
+      <label index="delete_error">Could not delete entry!</label>
+      <label index="save">Save</label>
+
+      <label index="no_config">No domain configured</label>
+      <label index="title_chart">Chart</label>
+      <label index="last_ratings">Last ratings for</label>
+      <label index="ratings">Ratings for</label>
+      <label index="rating_seitwert">Seitwert</label>
+      <label index="rating_google">Weighting at Google</label>
+      <label index="rating_alexa">Hit rate (Alexa)</label>
+      <label index="rating_social">Social Bookmarks</label>
+      <label index="rating_technical">Technical Details</label>
+      <label index="rating_yahoo">Weighting at Yahoo</label>
+      <label index="rating_other">Other factors</label>
+      <label index="error">Error</label>
+    </languageKey>
+		<languageKey index="de" type="array">
+			<label index="title">Seitwert</label>
+			<label index="stats">Statistiken</label>
+			<label index="config">Konfiguration</label>
+
+      <label index="new_data">Neue Daten wurden hinzugefügt.</label>
+      <label index="new_data_error">Neue Daten konnten nicht gespeichert werden!</label>
+      <label index="select_domain">Domain auswählen</label>
+      <label index="apikey">API-Schlüssel</label>
+      <label index="hold_back_time">Vorhaltezeit der Daten</label>
+      <label index="days">Tage</label>
+      <label index="invalid_domain">Ungültige Domain!</label>
+      <label index="invalid_apikey">Ungültiger API-Schlüssel!</label>
+      <label index="delete_entry">Eintrag löschen</label>
+      <label index="delete_success">Eintrag gelöscht</label>
+      <label index="delete_error">Eintrag konnte nicht gelöscht werden!</label>
+      <label index="save">Speichern</label>
+
+      <label index="no_config">Keine Domain konfiguriert</label>
+      <label index="title_chart">Grafik der letzten Ergebnisse</label>
+      <label index="last_ratings">Letzte Bewertungen für</label>
+      <label index="ratings">Bewertungen für</label>
+      <label index="rating_seitwert">Seitwert</label>
+      <label index="rating_google">Gewichtung bei Google</label>
+      <label index="rating_alexa">Zugriffszahlen (Alexa)</label>
+      <label index="rating_social">Social Bookmarks</label>
+      <label index="rating_technical">Technische Details</label>
+      <label index="rating_yahoo">Gewichtung bei Yahoo</label>
+      <label index="rating_other">Sonstige Faktoren</label>
+      <label index="error">Fehler</label>
+    </languageKey>
+	</data>
+</T3locallang>
